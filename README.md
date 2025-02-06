@@ -152,6 +152,11 @@ node index.js
    - POST `/personnes` (Body : `{ "nom": "John", "adresse": "Paris" }`)
    - PUT `/personnes/:id` (Body : `{ "nom": "John Doe", "adresse": "Lyon" }`)
    - DELETE `/personnes/:id`
+ ![image](https://github.com/user-attachments/assets/8c78e59e-70b3-4dd3-a132-130b03878405)
+![image](https://github.com/user-attachments/assets/eedd9923-b3d3-4e01-af6c-6a9d53d03565)
+![image](https://github.com/user-attachments/assets/72936f4b-fee9-4ed6-bbef-52c635dc6690)
+![image](https://github.com/user-attachments/assets/fa7d872d-bf33-40d6-86e6-35dc61a938ee)
+
 
 3. **Validation**
    - Assurez-vous que les données sont correctement insérées, mises à jour et supprimées.
